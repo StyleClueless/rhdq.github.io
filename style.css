@@ -5,4 +5,5 @@ body{
 	position: absolute;
 	left: 56%
 	top: 20%;
+	z-index:1;
 }
