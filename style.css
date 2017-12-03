@@ -1,6 +1,16 @@
 body{
 	background-image:
 	url('https://images.unsplash.com/photo-1481495278953-0967c9759b78?auto=format&fit=crop&w=1951&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D');
+.container {
+    width: 200px;
+    height: 120px;
+}
+
+/* resize images */
+.container img {
+    width: 100%;
+    height: auto;
+}
 .small-box{
 	position: absolute;
 	left: 56%
